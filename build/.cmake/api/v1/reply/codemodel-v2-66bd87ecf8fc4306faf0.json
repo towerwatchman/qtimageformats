@@ -391,7 +391,7 @@
 				{
 					"directoryIndex" : 2,
 					"id" : "docs_ImageFormats::@512f02904cc1dcb129c6",
-					"jsonFile" : "target-docs_ImageFormats-Debug-94a6bba9609212382aeb.json",
+					"jsonFile" : "target-docs_ImageFormats-Debug-68c267e12229ae3cc715.json",
 					"name" : "docs_ImageFormats",
 					"projectIndex" : 0
 				},
@@ -615,14 +615,14 @@
 				{
 					"directoryIndex" : 5,
 					"id" : "qt_internal_plugins::@61ee2c81107ba583327d",
-					"jsonFile" : "target-qt_internal_plugins-Debug-eb33acb12b8096cb60ff.json",
+					"jsonFile" : "target-qt_internal_plugins-Debug-ef5a5338875481945154.json",
 					"name" : "qt_internal_plugins",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "qt_plugins::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-qt_plugins-Debug-5560db8ab80a33b07bf3.json",
+					"jsonFile" : "target-qt_plugins-Debug-6b7d72120a30c98d8ce6.json",
 					"name" : "qt_plugins",
 					"projectIndex" : 0
 				},
@@ -650,7 +650,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "qtimageformats_src::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-qtimageformats_src-Debug-64c3bb67cafd325d9e74.json",
+					"jsonFile" : "target-qtimageformats_src-Debug-59bfa747a8156d96a669.json",
 					"name" : "qtimageformats_src",
 					"projectIndex" : 0
 				},

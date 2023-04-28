@@ -11,13 +11,13 @@
 # We can't create the same interface imported target multiple times, CMake will complain if we do
 # that. This can happen if the find_package call is done in multiple different subdirectories.
 if(TARGET WrapWebP::WrapWebP)
-    set(WrapWebP_FOUND TRUE)
+    set( TRUE)
     return()
 endif()
 
 find_package(WebP QUIET)
 if(TARGET WebP::webp AND TARGET WebP::webpdemux AND TARGET WebP::libwebpmux)
-    set(WrapWebP_FOUND ON)
+    set(WrapWebP_FOUND OFF)
     add_library(WrapWebP::WrapWebP INTERFACE IMPORTED)
     target_link_libraries(WrapWebP::WrapWebP INTERFACE WebP::webp WebP::webpdemux WebP::libwebpmux)
     return()
@@ -49,7 +49,7 @@ find_package_handle_standard_args(WrapWebP DEFAULT_MSG WebP_INCLUDE_DIR WebP_LIB
 
 mark_as_advanced(WebP_INCLUDE_DIR WebP_LIBRARY WebP_demux_INCLUDE_DIR WebP_demux_LIBRARY WebP_mux_INCLUDE_DIR WebP_mux_LIBRARY)
 if(WrapWebP_FOUND)
-    set(WebP_FOUND ON)
+    set(WebP_FOUND OFF)
     add_library(WrapWebP::WrapWebP INTERFACE IMPORTED)
     target_link_libraries(WrapWebP::WrapWebP INTERFACE ${WebP_LIBRARY} ${WebP_demux_LIBRARY} ${WebP_mux_LIBRARY})
     target_include_directories(WrapWebP::WrapWebP

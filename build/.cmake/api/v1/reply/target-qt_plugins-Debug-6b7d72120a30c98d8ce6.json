@@ -17,8 +17,8 @@
 			"C:/Qt/6.4.3/mingw_64/lib/cmake/Qt6/QtPluginHelpers.cmake",
 			"src/plugins/imageformats/tga/CMakeLists.txt",
 			"src/plugins/imageformats/wbmp/CMakeLists.txt",
-			"src/plugins/imageformats/icns/CMakeLists.txt",
 			"src/plugins/imageformats/tiff/CMakeLists.txt",
+			"src/plugins/imageformats/icns/CMakeLists.txt",
 			"src/plugins/imageformats/webp/CMakeLists.txt"
 		],
 		"nodes" : 
@@ -80,7 +80,7 @@
 			{
 				"command" : 4,
 				"file" : 5,
-				"line" : 8,
+				"line" : 15,
 				"parent" : 10
 			},
 			{
@@ -95,7 +95,7 @@
 			{
 				"command" : 4,
 				"file" : 6,
-				"line" : 15,
+				"line" : 8,
 				"parent" : 13
 			},
 			{
@@ -133,11 +133,11 @@
 		},
 		{
 			"backtrace" : 12,
-			"id" : "QICNSPlugin::@dbca3767ccad1ab9d753"
+			"id" : "QTiffPlugin::@ba45f5e7b6ca0d4ea3f9"
 		},
 		{
 			"backtrace" : 15,
-			"id" : "QTiffPlugin::@ba45f5e7b6ca0d4ea3f9"
+			"id" : "QICNSPlugin::@dbca3767ccad1ab9d753"
 		},
 		{
 			"backtrace" : 18,
