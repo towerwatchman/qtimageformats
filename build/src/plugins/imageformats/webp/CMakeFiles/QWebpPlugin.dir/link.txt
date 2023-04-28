@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\QWebpPlugin.dir/objects.a
+C:\mingw64\bin\ar.exe qc CMakeFiles\QWebpPlugin.dir/objects.a @CMakeFiles\QWebpPlugin.dir\objects1.rsp
+C:\mingw64\bin\g++.exe -g -Wl,--no-undefined -shared -o ..\..\..\..\plugins\imageformats\qwebp.dll -Wl,--major-image-version,0,--minor-image-version,0 -Wl,--whole-archive CMakeFiles\QWebpPlugin.dir/objects.a -Wl,--no-whole-archive @CMakeFiles\QWebpPlugin.dir\linkLibs.rsp

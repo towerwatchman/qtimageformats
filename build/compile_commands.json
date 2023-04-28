@@ -1,0 +1,974 @@
+[
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tga",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQTgaPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTgaPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QTgaPlugin.dir\\QTgaPlugin_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\build\\src\\plugins\\imageformats\\tga\\QTgaPlugin_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tga/QTgaPlugin_autogen/mocs_compilation.cpp",
+  "output": "src/plugins/imageformats/tga/CMakeFiles/QTgaPlugin.dir/QTgaPlugin_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tga",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQTgaPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTgaPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QTgaPlugin.dir\\main.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\tga\\main.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/tga/main.cpp",
+  "output": "src/plugins/imageformats/tga/CMakeFiles/QTgaPlugin.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tga",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQTgaPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTgaPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QTgaPlugin.dir\\qtgafile.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\tga\\qtgafile.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/tga/qtgafile.cpp",
+  "output": "src/plugins/imageformats/tga/CMakeFiles/QTgaPlugin.dir/qtgafile.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tga",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQTgaPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTgaPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QTgaPlugin.dir\\qtgahandler.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\tga\\qtgahandler.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/tga/qtgahandler.cpp",
+  "output": "src/plugins/imageformats/tga/CMakeFiles/QTgaPlugin.dir/qtgahandler.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/wbmp",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWbmpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWbmpPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QWbmpPlugin.dir\\QWbmpPlugin_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\build\\src\\plugins\\imageformats\\wbmp\\QWbmpPlugin_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/wbmp/QWbmpPlugin_autogen/mocs_compilation.cpp",
+  "output": "src/plugins/imageformats/wbmp/CMakeFiles/QWbmpPlugin.dir/QWbmpPlugin_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/wbmp",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWbmpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWbmpPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QWbmpPlugin.dir\\main.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\wbmp\\main.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/wbmp/main.cpp",
+  "output": "src/plugins/imageformats/wbmp/CMakeFiles/QWbmpPlugin.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/wbmp",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWbmpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWbmpPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QWbmpPlugin.dir\\qwbmphandler.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\wbmp\\qwbmphandler.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/wbmp/qwbmphandler.cpp",
+  "output": "src/plugins/imageformats/wbmp/CMakeFiles/QWbmpPlugin.dir/qwbmphandler.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QTiffPlugin.dir\\QTiffPlugin_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\build\\src\\plugins\\imageformats\\tiff\\QTiffPlugin_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff/QTiffPlugin_autogen/mocs_compilation.cpp",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/QTiffPlugin_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QTiffPlugin.dir\\main.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\tiff\\main.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/tiff/main.cpp",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QTiffPlugin.dir\\qtiffhandler.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\tiff\\qtiffhandler.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/tiff/qtiffhandler.cpp",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/qtiffhandler.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_aux.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_aux.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_aux.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_aux.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_close.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_close.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_close.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_close.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_codec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_codec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_codec.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_codec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_color.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_color.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_color.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_color.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_compress.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_compress.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_compress.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_compress.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_dir.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_dir.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_dir.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_dir.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_dirinfo.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_dirinfo.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_dirinfo.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_dirinfo.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_dirread.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_dirread.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_dirread.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_dirread.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_dirwrite.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_dirwrite.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_dirwrite.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_dirwrite.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_dumpmode.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_dumpmode.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_dumpmode.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_dumpmode.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_error.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_error.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_error.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_error.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_extension.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_extension.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_extension.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_extension.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_fax3.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_fax3.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_fax3.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_fax3.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_fax3sm.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_fax3sm.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_fax3sm.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_fax3sm.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_flush.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_flush.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_flush.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_flush.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_getimage.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_getimage.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_getimage.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_getimage.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_hash_set.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_hash_set.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_hash_set.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_hash_set.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_luv.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_luv.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_luv.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_luv.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_lzw.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_lzw.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_lzw.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_lzw.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_next.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_next.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_next.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_next.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_open.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_open.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_open.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_open.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_packbits.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_packbits.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_packbits.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_packbits.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_pixarlog.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_pixarlog.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_pixarlog.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_pixarlog.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_predict.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_predict.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_predict.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_predict.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_print.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_print.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_print.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_print.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_read.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_read.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_read.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_read.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_strip.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_strip.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_strip.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_strip.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_swab.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_swab.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_swab.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_swab.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_thunder.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_thunder.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_thunder.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_thunder.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_tile.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_tile.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_tile.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_tile.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_version.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_version.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_version.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_version.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_warning.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_warning.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_warning.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_warning.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_write.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_write.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_write.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_write.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_zip.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_zip.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_zip.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_zip.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/tiff",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQT_ZLIB_LIB -DQTiffPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QTiffPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QTiffPlugin.dir\\__\\__\\__\\3rdparty\\libtiff\\libtiff\\tif_win32.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libtiff\\libtiff\\tif_win32.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libtiff/libtiff/tif_win32.c",
+  "output": "src/plugins/imageformats/tiff/CMakeFiles/QTiffPlugin.dir/__/__/__/3rdparty/libtiff/libtiff/tif_win32.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QWebpPlugin.dir\\QWebpPlugin_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\build\\src\\plugins\\imageformats\\webp\\QWebpPlugin_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp/QWebpPlugin_autogen/mocs_compilation.cpp",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/QWebpPlugin_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QWebpPlugin.dir\\main.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\webp\\main.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/webp/main.cpp",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QWebpPlugin.dir\\qwebphandler.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\webp\\qwebphandler.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/webp/qwebphandler.cpp",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/qwebphandler.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\sharpyuv\\sharpyuv.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\sharpyuv\\sharpyuv.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/sharpyuv/sharpyuv.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/sharpyuv/sharpyuv.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\sharpyuv\\sharpyuv_cpu.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\sharpyuv\\sharpyuv_cpu.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/sharpyuv/sharpyuv_cpu.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/sharpyuv/sharpyuv_cpu.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\sharpyuv\\sharpyuv_csp.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\sharpyuv\\sharpyuv_csp.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/sharpyuv/sharpyuv_csp.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/sharpyuv/sharpyuv_csp.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\sharpyuv\\sharpyuv_dsp.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\sharpyuv\\sharpyuv_dsp.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/sharpyuv/sharpyuv_dsp.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/sharpyuv/sharpyuv_dsp.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\sharpyuv\\sharpyuv_gamma.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\sharpyuv\\sharpyuv_gamma.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/sharpyuv/sharpyuv_gamma.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/sharpyuv/sharpyuv_gamma.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\sharpyuv\\sharpyuv_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\sharpyuv\\sharpyuv_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/sharpyuv/sharpyuv_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/sharpyuv/sharpyuv_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dec\\alpha_dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dec\\alpha_dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dec/alpha_dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dec/alpha_dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dec\\buffer_dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dec\\buffer_dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dec/buffer_dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dec/buffer_dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dec\\frame_dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dec\\frame_dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dec/frame_dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dec/frame_dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dec\\idec_dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dec\\idec_dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dec/idec_dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dec/idec_dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dec\\io_dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dec\\io_dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dec/io_dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dec/io_dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dec\\quant_dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dec\\quant_dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dec/quant_dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dec/quant_dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dec\\tree_dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dec\\tree_dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dec/tree_dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dec/tree_dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dec\\vp8_dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dec\\vp8_dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dec/vp8_dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dec/vp8_dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dec\\vp8l_dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dec\\vp8l_dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dec/vp8l_dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dec/vp8l_dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dec\\webp_dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dec\\webp_dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dec/webp_dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dec/webp_dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\demux\\anim_decode.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\demux\\anim_decode.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/demux/anim_decode.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/demux/anim_decode.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\demux\\demux.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\demux\\demux.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/demux/demux.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/demux/demux.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\alpha_processing.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\alpha_processing.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/alpha_processing.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/alpha_processing.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\alpha_processing_mips_dsp_r2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\alpha_processing_mips_dsp_r2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/alpha_processing_mips_dsp_r2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/alpha_processing_mips_dsp_r2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\alpha_processing_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\alpha_processing_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/alpha_processing_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/alpha_processing_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\alpha_processing_sse41.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\alpha_processing_sse41.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/alpha_processing_sse41.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/alpha_processing_sse41.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\cost.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\cost.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/cost.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/cost.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\cost_mips32.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\cost_mips32.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/cost_mips32.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/cost_mips32.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\cost_mips_dsp_r2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\cost_mips_dsp_r2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/cost_mips_dsp_r2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/cost_mips_dsp_r2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\cost_neon.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\cost_neon.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/cost_neon.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/cost_neon.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\cost_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\cost_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/cost_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/cost_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\cpu.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\cpu.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/cpu.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/cpu.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\dec.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\dec.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/dec.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/dec.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\dec_clip_tables.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\dec_clip_tables.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/dec_clip_tables.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/dec_clip_tables.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\dec_mips32.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\dec_mips32.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/dec_mips32.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/dec_mips32.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\dec_mips_dsp_r2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\dec_mips_dsp_r2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/dec_mips_dsp_r2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/dec_mips_dsp_r2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\dec_msa.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\dec_msa.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/dec_msa.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/dec_msa.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\dec_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\dec_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/dec_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/dec_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\dec_sse41.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\dec_sse41.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/dec_sse41.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/dec_sse41.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\enc_mips32.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\enc_mips32.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/enc_mips32.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/enc_mips32.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\enc_mips_dsp_r2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\enc_mips_dsp_r2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/enc_mips_dsp_r2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/enc_mips_dsp_r2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\enc_msa.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\enc_msa.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/enc_msa.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/enc_msa.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\enc_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\enc_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/enc_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/enc_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\enc_sse41.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\enc_sse41.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/enc_sse41.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/enc_sse41.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\filters.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\filters.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/filters.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/filters.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\filters_mips_dsp_r2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\filters_mips_dsp_r2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/filters_mips_dsp_r2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/filters_mips_dsp_r2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\filters_msa.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\filters_msa.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/filters_msa.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/filters_msa.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\filters_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\filters_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/filters_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/filters_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\lossless.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\lossless.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/lossless.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/lossless.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\lossless_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\lossless_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/lossless_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/lossless_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\lossless_enc_mips32.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\lossless_enc_mips32.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/lossless_enc_mips32.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/lossless_enc_mips32.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\lossless_enc_mips_dsp_r2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\lossless_enc_mips_dsp_r2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/lossless_enc_mips_dsp_r2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/lossless_enc_mips_dsp_r2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\lossless_enc_msa.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\lossless_enc_msa.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/lossless_enc_msa.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/lossless_enc_msa.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\lossless_enc_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\lossless_enc_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/lossless_enc_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/lossless_enc_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\lossless_enc_sse41.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\lossless_enc_sse41.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/lossless_enc_sse41.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/lossless_enc_sse41.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\lossless_mips_dsp_r2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\lossless_mips_dsp_r2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/lossless_mips_dsp_r2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/lossless_mips_dsp_r2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\lossless_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\lossless_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/lossless_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/lossless_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\lossless_sse41.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\lossless_sse41.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/lossless_sse41.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/lossless_sse41.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\rescaler.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\rescaler.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/rescaler.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/rescaler.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\rescaler_mips32.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\rescaler_mips32.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/rescaler_mips32.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/rescaler_mips32.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\rescaler_mips_dsp_r2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\rescaler_mips_dsp_r2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/rescaler_mips_dsp_r2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/rescaler_mips_dsp_r2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\rescaler_msa.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\rescaler_msa.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/rescaler_msa.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/rescaler_msa.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\rescaler_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\rescaler_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/rescaler_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/rescaler_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\ssim.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\ssim.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/ssim.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/ssim.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\ssim_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\ssim_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/ssim_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/ssim_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\upsampling.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\upsampling.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/upsampling.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/upsampling.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\upsampling_mips_dsp_r2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\upsampling_mips_dsp_r2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/upsampling_mips_dsp_r2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/upsampling_mips_dsp_r2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\upsampling_msa.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\upsampling_msa.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/upsampling_msa.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/upsampling_msa.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\upsampling_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\upsampling_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/upsampling_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/upsampling_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\upsampling_sse41.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\upsampling_sse41.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/upsampling_sse41.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/upsampling_sse41.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\yuv.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\yuv.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/yuv.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/yuv.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\yuv_mips32.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\yuv_mips32.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/yuv_mips32.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/yuv_mips32.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\yuv_mips_dsp_r2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\yuv_mips_dsp_r2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/yuv_mips_dsp_r2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/yuv_mips_dsp_r2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\yuv_sse2.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\yuv_sse2.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/yuv_sse2.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/yuv_sse2.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\dsp\\yuv_sse41.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\dsp\\yuv_sse41.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/dsp/yuv_sse41.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/dsp/yuv_sse41.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\alpha_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\alpha_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/alpha_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/alpha_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\analysis_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\analysis_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/analysis_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/analysis_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\backward_references_cost_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\backward_references_cost_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/backward_references_cost_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/backward_references_cost_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\backward_references_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\backward_references_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/backward_references_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/backward_references_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\config_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\config_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/config_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/config_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\cost_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\cost_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/cost_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/cost_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\filter_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\filter_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/filter_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/filter_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\frame_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\frame_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/frame_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/frame_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\histogram_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\histogram_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/histogram_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/histogram_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\iterator_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\iterator_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/iterator_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/iterator_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\near_lossless_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\near_lossless_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/near_lossless_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/near_lossless_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\picture_csp_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\picture_csp_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/picture_csp_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/picture_csp_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\picture_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\picture_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/picture_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/picture_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\picture_psnr_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\picture_psnr_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/picture_psnr_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/picture_psnr_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\picture_rescale_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\picture_rescale_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/picture_rescale_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/picture_rescale_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\picture_tools_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\picture_tools_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/picture_tools_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/picture_tools_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\predictor_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\predictor_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/predictor_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/predictor_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\quant_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\quant_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/quant_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/quant_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\syntax_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\syntax_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/syntax_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/syntax_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\token_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\token_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/token_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/token_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\tree_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\tree_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/tree_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/tree_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\vp8l_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\vp8l_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/vp8l_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/vp8l_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\enc\\webp_enc.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\enc\\webp_enc.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/enc/webp_enc.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/enc/webp_enc.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\mux\\anim_encode.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\mux\\anim_encode.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/mux/anim_encode.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/mux/anim_encode.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\mux\\muxedit.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\mux\\muxedit.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/mux/muxedit.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/mux/muxedit.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\mux\\muxinternal.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\mux\\muxinternal.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/mux/muxinternal.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/mux/muxinternal.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\mux\\muxread.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\mux\\muxread.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/mux/muxread.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/mux/muxread.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\bit_reader_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\bit_reader_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/bit_reader_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/bit_reader_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\bit_writer_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\bit_writer_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/bit_writer_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/bit_writer_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\color_cache_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\color_cache_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/color_cache_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/color_cache_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\filters_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\filters_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/filters_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/filters_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\huffman_encode_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\huffman_encode_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/huffman_encode_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/huffman_encode_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\huffman_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\huffman_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/huffman_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/huffman_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\quant_levels_dec_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\quant_levels_dec_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/quant_levels_dec_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/quant_levels_dec_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\quant_levels_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\quant_levels_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/quant_levels_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/quant_levels_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\random_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\random_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/random_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/random_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\rescaler_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\rescaler_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/rescaler_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/rescaler_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\thread_utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\thread_utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/thread_utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/thread_utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/webp",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DQWebpPlugin_EXPORTS -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QWebpPlugin.dir/includes_C.rsp -g -std=c11 -fvisibility=hidden -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -o CMakeFiles\\QWebpPlugin.dir\\__\\__\\__\\3rdparty\\libwebp\\src\\utils\\utils.c.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\3rdparty\\libwebp\\src\\utils\\utils.c",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/3rdparty/libwebp/src/utils/utils.c",
+  "output": "src/plugins/imageformats/webp/CMakeFiles/QWebpPlugin.dir/__/__/__/3rdparty/libwebp/src/utils/utils.c.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/icns",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQICNSPlugin_EXPORTS -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_CAST_FROM_ASCII -DQT_NO_CAST_TO_ASCII -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QICNSPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QICNSPlugin.dir\\QICNSPlugin_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\build\\src\\plugins\\imageformats\\icns\\QICNSPlugin_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/icns/QICNSPlugin_autogen/mocs_compilation.cpp",
+  "output": "src/plugins/imageformats/icns/CMakeFiles/QICNSPlugin.dir/QICNSPlugin_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/icns",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQICNSPlugin_EXPORTS -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_CAST_FROM_ASCII -DQT_NO_CAST_TO_ASCII -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QICNSPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QICNSPlugin.dir\\main.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\icns\\main.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/icns/main.cpp",
+  "output": "src/plugins/imageformats/icns/CMakeFiles/QICNSPlugin.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/icns",
+  "command": "C:\\mingw64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQICNSPlugin_EXPORTS -DQT_CORE_LIB -DQT_DEPRECATED_WARNINGS -DQT_DEPRECATED_WARNINGS_SINCE=0x070000 -DQT_DISABLE_DEPRECATED_BEFORE=0x040800 -DQT_GUI_LIB -DQT_NO_AS_CONST=1 -DQT_NO_CAST_FROM_ASCII -DQT_NO_CAST_TO_ASCII -DQT_NO_EXCEPTIONS -DQT_NO_JAVA_STYLE_ITERATORS -DQT_NO_NARROWING_CONVERSIONS_IN_CONNECT -DQT_PLUGIN -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/QICNSPlugin.dir/includes_CXX.rsp -g -std=c++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -fno-exceptions -Wa,-mbig-obj -Wsuggest-override -o CMakeFiles\\QICNSPlugin.dir\\qicnshandler.cpp.obj -c C:\\Users\\tower\\OneDrive\\Documents\\GitHub\\qtimageformats\\src\\plugins\\imageformats\\icns\\qicnshandler.cpp",
+  "file": "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/src/plugins/imageformats/icns/qicnshandler.cpp",
+  "output": "src/plugins/imageformats/icns/CMakeFiles/QICNSPlugin.dir/qicnshandler.cpp.obj"
+}
+]

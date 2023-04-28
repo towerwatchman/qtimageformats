@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build/src/plugins/imageformats/icns/QICNSPlugin_resource.rc
+windows.h
+-
+

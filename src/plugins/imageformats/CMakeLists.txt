@@ -14,9 +14,9 @@ add_subdirectory(wbmp)
 if(QT_FEATURE_tiff)
     add_subdirectory(tiff)
 endif()
-if(QT_FEATURE_webp)
-    add_subdirectory(webp)
-endif()
+#force compile of webp
+add_subdirectory(webp)
+
 if(APPLE)
     add_subdirectory(macheif)
 endif()

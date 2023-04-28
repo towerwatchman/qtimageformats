@@ -1,0 +1,685 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-6af6499cfcc80ed8d888.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						10,
+						11,
+						12,
+						14,
+						15,
+						17,
+						20,
+						21,
+						23,
+						24,
+						26,
+						27,
+						29,
+						30,
+						32,
+						33,
+						35,
+						37,
+						39,
+						43,
+						44,
+						46,
+						49,
+						50
+					]
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src-Debug-c94b7c2814d5a21df52c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src"
+				},
+				{
+					"build" : "src/imageformats",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.imageformats-Debug-fe27cd94329f077437d5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/imageformats",
+					"targetIndexes" : 
+					[
+						13,
+						16,
+						18,
+						19,
+						22,
+						25,
+						28,
+						31,
+						34,
+						36,
+						38,
+						40,
+						41
+					]
+				},
+				{
+					"build" : "src/plugins",
+					"childIndexes" : 
+					[
+						4
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.plugins-Debug-49857304be7f250ff769.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/plugins"
+				},
+				{
+					"build" : "src/plugins/imageformats",
+					"childIndexes" : 
+					[
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.plugins.imageformats-Debug-74a00275b58c80eb936e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "src/plugins/imageformats"
+				},
+				{
+					"build" : "src/plugins/imageformats/tga",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.plugins.imageformats.tga-Debug-75833328c856be6ed2c3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/plugins/imageformats/tga",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						45,
+						47
+					]
+				},
+				{
+					"build" : "src/plugins/imageformats/wbmp",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.plugins.imageformats.wbmp-Debug-88bf2d05372c4d0536bc.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/plugins/imageformats/wbmp",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						51
+					]
+				},
+				{
+					"build" : "src/plugins/imageformats/tiff",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.plugins.imageformats.tiff-Debug-a965fb34e031fc787a6e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/plugins/imageformats/tiff",
+					"targetIndexes" : 
+					[
+						4,
+						5,
+						48
+					]
+				},
+				{
+					"build" : "src/plugins/imageformats/webp",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.plugins.imageformats.webp-Debug-fe344bbb18a6c97963a0.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/plugins/imageformats/webp",
+					"targetIndexes" : 
+					[
+						8,
+						9,
+						52
+					]
+				},
+				{
+					"build" : "src/plugins/imageformats/icns",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-src.plugins.imageformats.icns-Debug-2b7d4cb1dddfba143b84.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 4,
+					"projectIndex" : 0,
+					"source" : "src/plugins/imageformats/icns",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						42
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					],
+					"name" : "QtImageFormats",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 9,
+					"id" : "QICNSPlugin::@dbca3767ccad1ab9d753",
+					"jsonFile" : "target-QICNSPlugin-Debug-380a300d3a5f1e63baa6.json",
+					"name" : "QICNSPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "QICNSPlugin_autogen::@dbca3767ccad1ab9d753",
+					"jsonFile" : "target-QICNSPlugin_autogen-Debug-cdd6f3f1d54df18f7e66.json",
+					"name" : "QICNSPlugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QTgaPlugin::@61ee2c81107ba583327d",
+					"jsonFile" : "target-QTgaPlugin-Debug-a1483f98f83d38bc5272.json",
+					"name" : "QTgaPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "QTgaPlugin_autogen::@61ee2c81107ba583327d",
+					"jsonFile" : "target-QTgaPlugin_autogen-Debug-bde6cf2380dea34d7c80.json",
+					"name" : "QTgaPlugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QTiffPlugin::@ba45f5e7b6ca0d4ea3f9",
+					"jsonFile" : "target-QTiffPlugin-Debug-dacfc7fe44991efe2d9b.json",
+					"name" : "QTiffPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "QTiffPlugin_autogen::@ba45f5e7b6ca0d4ea3f9",
+					"jsonFile" : "target-QTiffPlugin_autogen-Debug-8eaaa7f3834c00da31d4.json",
+					"name" : "QTiffPlugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "QWbmpPlugin::@bb78bb9880b2b98b93bd",
+					"jsonFile" : "target-QWbmpPlugin-Debug-dc96d7ce50e58e9481d1.json",
+					"name" : "QWbmpPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "QWbmpPlugin_autogen::@bb78bb9880b2b98b93bd",
+					"jsonFile" : "target-QWbmpPlugin_autogen-Debug-b9d3189bdc814f9837b0.json",
+					"name" : "QWbmpPlugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QWebpPlugin::@d642c99ecf950dd6467c",
+					"jsonFile" : "target-QWebpPlugin-Debug-bde19193d87139bffcf6.json",
+					"name" : "QWebpPlugin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "QWebpPlugin_autogen::@d642c99ecf950dd6467c",
+					"jsonFile" : "target-QWebpPlugin_autogen-Debug-ec3fdd9a46249e42c9bd.json",
+					"name" : "QWebpPlugin_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark-Debug-6a1f7b31d238b80d73c9.json",
+					"name" : "benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "bootstrap_tools::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-bootstrap_tools-Debug-01d2c030b2d3f2a0f923.json",
+					"name" : "bootstrap_tools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "docs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-docs-Debug-09fc87b8380a00c717aa.json",
+					"name" : "docs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-docs_ImageFormats-Debug-94a6bba9609212382aeb.json",
+					"name" : "docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "docs_qtimageformats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-docs_qtimageformats-Debug-7502e37c963579f4bba6.json",
+					"name" : "docs_qtimageformats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_docs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_docs-Debug-b16dcbd5f3214949c3ee.json",
+					"name" : "generate_docs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "generate_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-generate_docs_ImageFormats-Debug-99adb6aeb21885b9d6af.json",
+					"name" : "generate_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "generate_docs_qtimageformats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate_docs_qtimageformats-Debug-15f4c92a0934109feec2.json",
+					"name" : "generate_docs_qtimageformats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "generate_repo_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-generate_repo_docs_ImageFormats-Debug-e7da9da8a2bf8c31b684.json",
+					"name" : "generate_repo_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "generate_top_level_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-generate_top_level_docs_ImageFormats-Debug-7de6f5dd86db5c916a07.json",
+					"name" : "generate_top_level_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "host_tools::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-host_tools-Debug-50c2849c86dec468da1c.json",
+					"name" : "host_tools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "html_docs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-html_docs-Debug-753b94d1254146d1f778.json",
+					"name" : "html_docs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "html_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-html_docs_ImageFormats-Debug-cfdb1044dc094265b8d7.json",
+					"name" : "html_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "html_docs_qtimageformats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-html_docs_qtimageformats-Debug-3bf35f5717e5387f8d26.json",
+					"name" : "html_docs_qtimageformats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "install_docs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-install_docs-Debug-57958b16d5f47d720324.json",
+					"name" : "install_docs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "install_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-install_docs_ImageFormats-Debug-7c195a2130b2b4753b74.json",
+					"name" : "install_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "install_docs_qtimageformats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-install_docs_qtimageformats-Debug-74e4ccb5add2605c3d69.json",
+					"name" : "install_docs_qtimageformats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "install_html_docs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-install_html_docs-Debug-0702bdd674ac347a7151.json",
+					"name" : "install_html_docs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "install_html_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-install_html_docs_ImageFormats-Debug-a002355e716bc32bc8d1.json",
+					"name" : "install_html_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "install_html_docs_qtimageformats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-install_html_docs_qtimageformats-Debug-ec1b7b39067104d0a9b3.json",
+					"name" : "install_html_docs_qtimageformats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "install_qch_docs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-install_qch_docs-Debug-09cab0facc924c632d41.json",
+					"name" : "install_qch_docs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "install_qch_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-install_qch_docs_ImageFormats-Debug-3c5be605d99ef286ed6a.json",
+					"name" : "install_qch_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "install_qch_docs_qtimageformats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-install_qch_docs_qtimageformats-Debug-f5329cf8c4b24c4bad07.json",
+					"name" : "install_qch_docs_qtimageformats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prepare_docs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prepare_docs-Debug-1f9486ee3452cf476919.json",
+					"name" : "prepare_docs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "prepare_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-prepare_docs_ImageFormats-Debug-93f31a7502517ffc1a2c.json",
+					"name" : "prepare_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "prepare_docs_qtimageformats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-prepare_docs_qtimageformats-Debug-7b888dceac4169a2028c.json",
+					"name" : "prepare_docs_qtimageformats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "qattributionsscanner_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-qattributionsscanner_ImageFormats-Debug-d6935bb3b865aa14abc2.json",
+					"name" : "qattributionsscanner_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qch_docs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qch_docs-Debug-fc0d0bcf13cc761e5dff.json",
+					"name" : "qch_docs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "qch_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-qch_docs_ImageFormats-Debug-aa7d35001bc5cd8d430b.json",
+					"name" : "qch_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qch_docs_qtimageformats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qch_docs_qtimageformats-Debug-963ac56d3f01013ebd08.json",
+					"name" : "qch_docs_qtimageformats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "qch_repo_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-qch_repo_docs_ImageFormats-Debug-44942b4c5202cf793f30.json",
+					"name" : "qch_repo_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "qch_top_level_docs_ImageFormats::@512f02904cc1dcb129c6",
+					"jsonFile" : "target-qch_top_level_docs_ImageFormats-Debug-117c60c44c979f7dac0f.json",
+					"name" : "qch_top_level_docs_ImageFormats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 9,
+					"id" : "qicns::@dbca3767ccad1ab9d753",
+					"jsonFile" : "target-qicns-Debug-20e333fb3f5bdaa20a92.json",
+					"name" : "qicns",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qpa_default_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qpa_default_plugins-Debug-8389e0fe5957238b4690.json",
+					"name" : "qpa_default_plugins",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qpa_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qpa_plugins-Debug-265b8ac7bc7a82cc0c18.json",
+					"name" : "qpa_plugins",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "qt_internal_plugins::@61ee2c81107ba583327d",
+					"jsonFile" : "target-qt_internal_plugins-Debug-eb33acb12b8096cb60ff.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_plugins-Debug-5560db8ab80a33b07bf3.json",
+					"name" : "qt_plugins",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "qtga::@61ee2c81107ba583327d",
+					"jsonFile" : "target-qtga-Debug-3649d4ce17a73c6b0cf6.json",
+					"name" : "qtga",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "qtiff::@ba45f5e7b6ca0d4ea3f9",
+					"jsonFile" : "target-qtiff-Debug-a5e94175db7f4c32f956.json",
+					"name" : "qtiff",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtimageformats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtimageformats-Debug-1b8c7de8623c737ce3af.json",
+					"name" : "qtimageformats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qtimageformats_src::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qtimageformats_src-Debug-64c3bb67cafd325d9e74.json",
+					"name" : "qtimageformats_src",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 6,
+					"id" : "qwbmp::@bb78bb9880b2b98b93bd",
+					"jsonFile" : "target-qwbmp-Debug-1aaed00544274d26fefc.json",
+					"name" : "qwbmp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "qwebp::@d642c99ecf950dd6467c",
+					"jsonFile" : "target-qwebp-Debug-628b5f51b118a173d5f2.json",
+					"name" : "qwebp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats/build",
+		"source" : "C:/Users/tower/OneDrive/Documents/GitHub/qtimageformats"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

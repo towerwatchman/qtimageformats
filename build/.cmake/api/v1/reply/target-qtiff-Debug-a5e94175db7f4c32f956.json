@@ -1,0 +1,57 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_internal_add_plugin",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.4.3/mingw_64/lib/cmake/Qt6/QtPluginHelpers.cmake",
+			"src/plugins/imageformats/tiff/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 143,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 144,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "QTiffPlugin::@ba45f5e7b6ca0d4ea3f9"
+		}
+	],
+	"id" : "qtiff::@ba45f5e7b6ca0d4ea3f9",
+	"name" : "qtiff",
+	"paths" : 
+	{
+		"build" : "src/plugins/imageformats/tiff",
+		"source" : "src/plugins/imageformats/tiff"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

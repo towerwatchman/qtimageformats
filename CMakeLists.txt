@@ -11,6 +11,12 @@ project(QtImageFormats
     LANGUAGES CXX C
 )
 
+set(QT_PATH "C:/Qt/6.4.3/mingw_64")
+
+if (DEFINED QT_PATH)
+    list(APPEND CMAKE_PREFIX_PATH ${QT_PATH})
+endif ()
+
 find_package(Qt6 ${PROJECT_VERSION} CONFIG REQUIRED COMPONENTS BuildInternals Core)
 find_package(Qt6 ${PROJECT_VERSION} QUIET CONFIG OPTIONAL_COMPONENTS Gui)
 if(NOT TARGET Qt::Gui)

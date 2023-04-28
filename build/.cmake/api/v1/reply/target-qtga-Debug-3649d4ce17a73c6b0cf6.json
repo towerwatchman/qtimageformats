@@ -1,0 +1,57 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_internal_add_plugin",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.4.3/mingw_64/lib/cmake/Qt6/QtPluginHelpers.cmake",
+			"src/plugins/imageformats/tga/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 143,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 144,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "QTgaPlugin::@61ee2c81107ba583327d"
+		}
+	],
+	"id" : "qtga::@61ee2c81107ba583327d",
+	"name" : "qtga",
+	"paths" : 
+	{
+		"build" : "src/plugins/imageformats/tga",
+		"source" : "src/plugins/imageformats/tga"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

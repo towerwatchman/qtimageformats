@@ -1,0 +1,169 @@
+{
+	"backtrace" : 3,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt6_add_plugin",
+			"qt_internal_add_plugin",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.4.3/mingw_64/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"C:/Qt/6.4.3/mingw_64/lib/cmake/Qt6/QtPluginHelpers.cmake",
+			"src/plugins/imageformats/tga/CMakeLists.txt",
+			"src/plugins/imageformats/wbmp/CMakeLists.txt",
+			"src/plugins/imageformats/icns/CMakeLists.txt",
+			"src/plugins/imageformats/tiff/CMakeLists.txt",
+			"src/plugins/imageformats/webp/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 1
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 1976,
+				"parent" : 2
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1978,
+				"parent" : 2
+			},
+			{
+				"file" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 8,
+				"parent" : 5
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 6
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1978,
+				"parent" : 7
+			},
+			{
+				"file" : 4
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 8,
+				"parent" : 9
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 10
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1978,
+				"parent" : 11
+			},
+			{
+				"file" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 15,
+				"parent" : 13
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 14
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1978,
+				"parent" : 15
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 6,
+				"line" : 8,
+				"parent" : 17
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 18
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 1978,
+				"parent" : 19
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "QTgaPlugin::@61ee2c81107ba583327d"
+		},
+		{
+			"backtrace" : 8,
+			"id" : "QWbmpPlugin::@bb78bb9880b2b98b93bd"
+		},
+		{
+			"backtrace" : 12,
+			"id" : "QICNSPlugin::@dbca3767ccad1ab9d753"
+		},
+		{
+			"backtrace" : 16,
+			"id" : "QTiffPlugin::@ba45f5e7b6ca0d4ea3f9"
+		},
+		{
+			"backtrace" : 20,
+			"id" : "QWebpPlugin::@d642c99ecf950dd6467c"
+		}
+	],
+	"id" : "qt_internal_plugins::@61ee2c81107ba583327d",
+	"name" : "qt_internal_plugins",
+	"paths" : 
+	{
+		"build" : "src/plugins/imageformats/tga",
+		"source" : "src/plugins/imageformats/tga"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,57 @@
+{
+	"backtrace" : 2,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"qt_internal_add_plugin",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.4.3/mingw_64/lib/cmake/Qt6/QtPluginHelpers.cmake",
+			"src/plugins/imageformats/icns/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 143,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 144,
+				"parent" : 1
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "QICNSPlugin::@dbca3767ccad1ab9d753"
+		}
+	],
+	"id" : "qicns::@dbca3767ccad1ab9d753",
+	"name" : "qicns",
+	"paths" : 
+	{
+		"build" : "src/plugins/imageformats/icns",
+		"source" : "src/plugins/imageformats/icns"
+	},
+	"sources" : [],
+	"type" : "UTILITY"
+}
